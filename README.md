@@ -1,9 +1,9 @@
 # Crimonland 血腥大地
 
-<img src="https://github.com/bobwen13579/canvas_bloodgun/images/bkg1.jpg"/> <br/>
-<img src="https://github.com/bobwen13579/canvas_bloodgun/images/demo1.png"/><br/>
-<img src="https://github.com/bobwen13579/canvas_bloodgun/images/demo2.png"/><br/>
-<img src="https://github.com/bobwen13579/canvas_bloodgun/images/demo3.png"/><br/>
+<img src="https://bobwen13579.github.io/canvas_bloodgun/images/bkg1.jpg"/> <br/>
+<img src="https://bobwen13579.github.io/canvas_bloodgun/images/demo1.png"/><br/>
+<img src="https://bobwen13579.github.io/canvas_bloodgun/images/demo2.png"/><br/>
+<img src="https:https://bobwen13579.github.io/canvas_bloodgun/images/demo3.png"/><br/>
 <ul style="font-family:'微软雅黑'">
 
 		<li>下载以后解压并在"canvas_bloodgun/new/路径下打开index.html文件"</li>
